@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\C#_Tool\Unofficial MGT2 Performance Patch\Unofficial MGT2 Performance Patch\obj\Debug\UnofficialMGT2PerformancePatch.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#_Tool\Unofficial MGT2 Performance Patch\Unofficial MGT2 Performance Patch\obj\Debug\UnofficialMGT2PerformancePatch.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\UnofficialMGT2PerformancePatch.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\UnofficialMGT2PerformancePatch.pdb
+C:\Users\admin\Documents\C#_Tool\Unofficial MGT2 Performance Patch\Unofficial MGT2 Performance Patch\obj\Debug\UnofficialMGT2PerformancePatch.dll
+C:\Users\admin\Documents\C#_Tool\Unofficial MGT2 Performance Patch\Unofficial MGT2 Performance Patch\obj\Debug\UnofficialMGT2PerformancePatch.pdb
